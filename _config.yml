@@ -23,13 +23,13 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: http://github.com/issuehyo
+  twitter: 
+  facebook: 
+  email: issuehyo@gmail.com
+  linkedin: 
 
-google_analytics: "UA-58263416-1"
+google_analytics: 
 
 disqus:
-    shortname: brianmaierjr
+    shortname: 
