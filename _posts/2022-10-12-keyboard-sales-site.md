@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 키보드 판매 사이트
 date: 2022-10-12
 tags: [keyboard, keyboard-community, key-cap, keyboard-switch, keyboard-part, keyboard-sale, 키보드, 키보드-커뮤니티, 키캡, 키보드-스위치, 키보드-부품, 키보드-판매]
