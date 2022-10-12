@@ -1,35 +1,25 @@
-title: 수잘남 ːː 수리 잘하는 남자
-description: 
+title:              수잘남
+email:              issuehyo@gmail.com
+description:        수리 잘하는 남자
+author:             Start Bootstrap
+baseurl:            "/"
+url:                "https://issuehyo.github.io"
 
-url: http://issuehyo.github.com
-baseurl: "/"
-paginate_path: "page:num/"
-permalink: :title/
+# Social Profiles
+twitter_username:   
+github_username:    issuehyo
+facebook_username:  
+instagram_username:  
+linkedin_username:
 
-# Header Option
-# header: large
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
-markdown: kramdown
-highlighter: rouge
-plugins: [jekyll-paginate]
-paginate: 5
-
-navigation:
-  - title: Home
-    url: /index.html
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-
-social:
-  github: issuehyo
-  twitter: 
-  facebook: 
-  email: issuehyo@gmail.com
-  linkedin: 
-
-google_analytics: 
-
-disqus:
-    shortname: 
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
