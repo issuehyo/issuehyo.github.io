@@ -3,8 +3,8 @@ description:
 
 url: http://issuehyo.github.com
 baseurl: "/"
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+paginate_path: "page:num/"
+permalink: :title/
 
 # Header Option
 # header: large
