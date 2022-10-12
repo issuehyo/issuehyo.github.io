@@ -1,6 +1,7 @@
 ---
 title: 키보드 판매 사이트
 date: 2022-10-12
+related: false
 tags:
   - keyboard
   - keyboard-community
