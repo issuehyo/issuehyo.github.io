@@ -109,5 +109,7 @@ tags:
 
 * 일렉트로마켓: <https://smartstore.naver.com/joonggon>
 
+> 내용 수정, 추가 및 삭제는 메일(issuehyo@gmail.com)로 보내주시면 감사하겠습니다.
+
 ### [출처 및 참고]
 * <https://m.blog.naver.com/yeoneutti/221958786144>
