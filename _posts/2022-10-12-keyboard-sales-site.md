@@ -17,48 +17,6 @@ tags:
   - 키보드-판매
 ---
 
-## 키보드 커뮤니티
-
-* 키보드랩: <https://kbdlab.co.kr>
-
-* 쿨엔조이: <https://coolenjoy.net/bbs/34>
-
-* 디시인사이드 기계식 키보드 갤러리: <https://cafe.naver.com/embestc>
-
-* 키보드 매니아: <http://www.kbdmania.net/xe/>
-
-## 키캡
-
-* 라온웨이: <https://smartstore.naver.com/raonway>
-
-* 키캡보따리: <https://smartstore.naver.com/stuffbag>
-
-* OGRE: <https://smartstore.naver.com/ogre>
-
-* 사오파오: <https://smartstore.naver.com/saopao>
-
-* 키득키득 키보드직구: <https://smartstore.naver.com/thebigcompany>
-
-* PIMP MY KEYBOARD(해외): <https://pimpmykeyboard.com/>
-
-* Jellykey(해외): <https://www.jellykey.com/>
-
-## 키보드 스위치, 부품
-
-* 스튜디오 그린필드: <https://smartstore.naver.com/greenfield_>
-
-* 렛츠기릿: <https://smartstore.naver.com/letsget1t>
-
-* TX 키보드: <https://txkeyboard.com/>
-
-* 스웨그키: <https://smartstore.naver.com/swagkey/category/fbbf349440f9459cb6d8a252f93cdfa0>
-
-* 질피시(해외): <https://zealpc.net/>
-
-* 오리지네이티브(해외): <https://www.originativeco.com/>
-
-* KEYS(해외): <https://keys.my/>
-
 ## 키보드 완제품
 
 * 덱키보드: <https://smartstore.naver.com/deckkeyboards>
@@ -101,13 +59,53 @@ tags:
 
 * ILUMKB(해외): <https://ilumkb.com/>
 
+## 키캡
+
+* 라온웨이: <https://smartstore.naver.com/raonway>
+
+* 키캡보따리: <https://smartstore.naver.com/stuffbag>
+
+* OGRE: <https://smartstore.naver.com/ogre>
+
+* 사오파오: <https://smartstore.naver.com/saopao>
+
+* 키득키득 키보드직구: <https://smartstore.naver.com/thebigcompany>
+
+* PIMP MY KEYBOARD(해외): <https://pimpmykeyboard.com/>
+
+* Jellykey(해외): <https://www.jellykey.com/>
+
+## 키보드 스위치, 부품
+
+* 스튜디오 그린필드: <https://smartstore.naver.com/greenfield_>
+
+* 렛츠기릿: <https://smartstore.naver.com/letsget1t>
+
+* 일렉트로마켓: <https://smartstore.naver.com/joonggon>
+
+* TX 키보드: <https://txkeyboard.com/>
+
+* 스웨그키: <https://smartstore.naver.com/swagkey/category/fbbf349440f9459cb6d8a252f93cdfa0>
+
+* 질피시(해외): <https://zealpc.net/>
+
+* 오리지네이티브(해외): <https://www.originativeco.com/>
+
+* KEYS(해외): <https://keys.my/>
+
 ## 키보드 공방
 
 * 키보드랩: <https://kbdlab.co.kr/>
 
-## 키보드, 마우스 용품
+## 키보드 커뮤니티
 
-* 일렉트로마켓: <https://smartstore.naver.com/joonggon>
+* 키보드랩: <https://kbdlab.co.kr>
+
+* 쿨엔조이: <https://coolenjoy.net/bbs/34>
+
+* 디시인사이드 기계식 키보드 갤러리: <https://cafe.naver.com/embestc>
+
+* 키보드 매니아: <http://www.kbdmania.net/xe/>
 
 > 내용 수정, 추가 및 삭제는 메일(issuehyo@gmail.com)로 보내주시면 감사하겠습니다.
 
