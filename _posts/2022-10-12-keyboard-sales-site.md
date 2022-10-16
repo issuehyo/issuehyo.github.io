@@ -1,5 +1,5 @@
 ---
-title: 키보드 판매 사이트
+title: 국내/해외 키보드 판매 사이트
 date: 2022-10-12
 related: false
 tags:
@@ -77,6 +77,8 @@ tags:
 
 ## 키보드 스위치, 부품
 
+* 스웨그키: <https://smartstore.naver.com/swagkey>
+
 * 스튜디오 그린필드: <https://smartstore.naver.com/greenfield_>
 
 * 렛츠기릿: <https://smartstore.naver.com/letsget1t>
@@ -84,8 +86,6 @@ tags:
 * 일렉트로마켓: <https://smartstore.naver.com/joonggon>
 
 * TX 키보드: <https://txkeyboard.com/>
-
-* 스웨그키: <https://smartstore.naver.com/swagkey/category/fbbf349440f9459cb6d8a252f93cdfa0>
 
 * 질피시(해외): <https://zealpc.net/>
 
