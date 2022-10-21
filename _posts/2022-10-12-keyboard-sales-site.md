@@ -19,7 +19,7 @@ tags:
 
 ## 키보드 완제품
 
-* 덱키보드: <https://smartstore.naver.com/deckkeyboards>
+* 덱키보드: <https://smartstore.naver.com/deckkeyboards>{: target="_blank"}
 
 * 아콘스토어: <https://smartstore.naver.com/archon>
 
