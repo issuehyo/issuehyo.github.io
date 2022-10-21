@@ -35,29 +35,29 @@ tags:
 
 * 펀키스: <https://funkeys.co.kr/>{: target="_blank"}
 
-* 코노(해외): <https://kono.store/>{: target="_blank"}
+* 코노 (해외): <https://kono.store/>{: target="_blank"}
 
-* 지프론티어(해외): <https://en.zfrontier.com/>{: target="_blank"}
+* 지프론티어 (해외): <https://en.zfrontier.com/>{: target="_blank"}
 
-* 데일리클락(해외): <https://dailyclack.com/>{: target="_blank"}
+* 데일리클락 (해외): <https://dailyclack.com/>{: target="_blank"}
 
-* KBDFANS(해외): <https://novelkeys.com/ https://kbdfans.com/>{: target="_blank"}
+* KBDFANS (해외): <https://novelkeys.com/ https://kbdfans.com/>{: target="_blank"}
 
-* 노벨키(해외): <https://novelkeys.com/>{: target="_blank"}
+* 노벨키 (해외): <https://novelkeys.com/>{: target="_blank"}
 
-* OMNITYPE(해외): <https://omnitype.com/collections/shop>{: target="_blank"}
+* OMNITYPE (해외): <https://omnitype.com/collections/shop>{: target="_blank"}
 
-* 딕시(해외): <https://omnitype.com/>{: target="_blank"}
+* 딕시 (해외): <https://omnitype.com/>{: target="_blank"}
 
-* 라마(해외): <https://rama.works/>{: target="_blank"}
+* 라마 (해외): <https://rama.works/>{: target="_blank"}
 
-* 캔디키(해외): <https://candykeys.com/>{: target="_blank"}
+* 캔디키 (해외): <https://candykeys.com/>{: target="_blank"}
 
-* FOX LAB(해외): <http://foxlabkeyboard.com/>{: target="_blank"}
+* FOX LAB (해외): <http://foxlabkeyboard.com/>{: target="_blank"}
 
-* Matrix lab(해외): <https://www.matrixlab.store/>{: target="_blank"}
+* Matrix lab (해외): <https://www.matrixlab.store/>{: target="_blank"}
 
-* ILUMKB(해외): <https://ilumkb.com/>{: target="_blank"}
+* ILUMKB (해외): <https://ilumkb.com/>{: target="_blank"}
 
 ## 키캡
 
@@ -71,9 +71,9 @@ tags:
 
 * 키득키득 키보드직구: <https://smartstore.naver.com/thebigcompany>{: target="_blank"}
 
-* PIMP MY KEYBOARD(해외): <https://pimpmykeyboard.com/>{: target="_blank"}
+* PIMP MY KEYBOARD (해외): <https://pimpmykeyboard.com/>{: target="_blank"}
 
-* Jellykey(해외): <https://www.jellykey.com/>{: target="_blank"}
+* Jellykey (해외): <https://www.jellykey.com/>{: target="_blank"}
 
 ## 키보드 스위치, 부품
 
@@ -87,11 +87,11 @@ tags:
 
 * TX 키보드: <https://txkeyboard.com/>{: target="_blank"}
 
-* 질피시(해외): <https://zealpc.net/>{: target="_blank"}
+* 질피시 (해외): <https://zealpc.net/>{: target="_blank"}
 
-* 오리지네이티브(해외): <https://www.originativeco.com/>{: target="_blank"}
+* 오리지네이티브 (해외): <https://www.originativeco.com/>{: target="_blank"}
 
-* KEYS(해외): <https://keys.my/>{: target="_blank"}
+* KEYS (해외): <https://keys.my/>{: target="_blank"}
 
 ## 키보드 공방
 
