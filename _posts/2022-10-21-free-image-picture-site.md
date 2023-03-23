@@ -9,6 +9,8 @@ tags:
   - picture
   - free-license-image
   - free-license-picture
+  - 이미지
+  - 사진
   - 무료-이미지
   - 무료-사진
   - 무료-라이선스-이미지
