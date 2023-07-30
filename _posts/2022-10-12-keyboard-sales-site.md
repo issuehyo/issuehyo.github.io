@@ -41,7 +41,7 @@ tags:
 
 * 데일리클락 (해외): <https://dailyclack.com/>{: target="_blank"}
 
-* KBDFANS (해외): <https://novelkeys.com/ https://kbdfans.com/>{: target="_blank"}
+* KBDFANS (해외): <https://novelkeys.com/>{: target="_blank"}
 
 * 노벨키 (해외): <https://novelkeys.com/>{: target="_blank"}
 
